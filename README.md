@@ -1,2 +1,2 @@
-# Computing-Cloud
-A repo for computing cloud exercises
+This exercise includes the HM that took place in the class.
+#full solution.
